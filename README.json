@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "description": "There were 13,012 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.\nThis continues the exponential explosion of unique authors over the past decade.\n",
+      "items": [],
+      "title": "Number of unique authors"
+    },
+    {
+      "description": "22% of titles introduced an acronym, up from 18% at NeurIPS 2022.",
+      "items": [],
+      "title": "Prevalence of Acronyms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cool NeurIPS Projects"
+    },
+    {
+      "description": "Note: GitHub automatically truncates files larger than 512 KB. To have all papers display on GitHub, we've split the file up by session.\nPoster Session 1\nPoster Session 2\nPoster Session 3\nPoster Session 4\nPoster Session 5\nPoster Session 6\nPosters Not Presented",
+      "items": [],
+      "title": "Conference Schedule"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T00:40:25.725Z",
+    "original_repository": "jacobmarks/awesome-neurips-2023",
+    "original_repository_sha": "3136ceadb59a59055af799184fe600ce3fe101ba",
+    "enhanced_repository": "enhansome/enhansome-neurips-2023",
+    "enhanced_repository_description": null,
+    "title": "Awesome NeurIPS 2023 Info with stars"
+  }
+}
