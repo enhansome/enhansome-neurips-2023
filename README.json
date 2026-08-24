@@ -1,7 +1,554 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "An Inverse Scaling Law for CLIP Training",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633155384,
+            "language": "Python",
+            "last_commit": "2024-06-03T22:29:16Z",
+            "owner": "UCSC-VLAA",
+            "repo": "CLIPA",
+            "stars": 322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Augmenting Language Models with Long-Term Memory",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 652523482,
+            "language": "Python",
+            "last_commit": "2024-03-30T22:24:38Z",
+            "owner": "Victorwz",
+            "repo": "LongMem",
+            "stars": 827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models",
+          "description": "Project Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 629816595,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-23T03:36:42Z",
+            "owner": "lupantech",
+            "repo": "chameleon-llm",
+            "stars": 1139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models",
+          "description": "Project Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 640913660,
+            "language": "Python",
+            "last_commit": "2024-01-27T15:00:22Z",
+            "owner": "luogen1996",
+            "repo": "LaVIN",
+            "stars": 523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataComp: In search of the next generation of multimodal datasets",
+          "description": "Project Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633690891,
+            "language": "Python",
+            "last_commit": "2025-04-28T21:59:23Z",
+            "owner": "mlfoundations",
+            "repo": "datacomp",
+            "stars": 787
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+          "description": "Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 657083020,
+            "language": "Python",
+            "last_commit": "2024-08-11T00:24:06Z",
+            "owner": "eric-mitchell",
+            "repo": "direct-preference-optimization",
+            "stars": 2906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data",
+          "description": "Project Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 653852586,
+            "language": "Python",
+            "last_commit": "2025-11-24T23:25:02Z",
+            "owner": "ssundaram21",
+            "repo": "dreamsim",
+            "stars": 623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fine-Tuning Language Models with Just Forward Passes",
+          "description": "Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 644071541,
+            "language": "Python",
+            "last_commit": "2024-01-11T18:07:52Z",
+            "owner": "princeton-nlp",
+            "repo": "MeZO",
+            "stars": 1173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generating Images with Multimodal Language Models",
+          "description": "Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 645408196,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-19T08:58:31Z",
+            "owner": "kohjingyu",
+            "repo": "gill",
+            "stars": 470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 621118467,
+            "language": "Python",
+            "last_commit": "2025-07-29T13:44:13Z",
+            "owner": "microsoft",
+            "repo": "JARVIS",
+            "stars": 25204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation",
+          "description": "Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 622147274,
+            "language": "Python",
+            "last_commit": "2025-10-29T13:40:51Z",
+            "owner": "zai-org",
+            "repo": "ImageReward",
+            "stars": 1702
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning",
+          "description": "Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 528238131,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-02T18:14:49Z",
+            "owner": "salesforce",
+            "repo": "LAVIS",
+            "stars": 11261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 615882673,
+            "language": "Python",
+            "last_commit": "2026-05-01T00:25:53Z",
+            "owner": "lm-sys",
+            "repo": "FastChat",
+            "stars": 39524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LAMM: Multi-Modal Large Language Models and Applications as AI Agents",
+          "description": "Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 650980216,
+            "language": "Python",
+            "last_commit": "2024-04-16T11:30:23Z",
+            "owner": "OpenGVLab",
+            "repo": "LAMM",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM-Pruner: On the Structural Pruning of Large Language Models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 642028103,
+            "language": "Python",
+            "last_commit": "2024-10-07T08:49:26Z",
+            "owner": "horseee",
+            "repo": "LLM-Pruner",
+            "stars": 1135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LightZero: A Unified Benchmark for Monte Carlo Tree Search in General Sequential Decision Scenario",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 547667434,
+            "language": "Python",
+            "last_commit": "2026-08-24T10:22:40Z",
+            "owner": "opendilab",
+            "repo": "LightZero",
+            "stars": 1636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion",
+          "description": "Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 659076597,
+            "language": "Python",
+            "last_commit": "2024-01-06T18:15:52Z",
+            "owner": "Tangshitao",
+            "repo": "MVDiffusion",
+            "stars": 567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing",
+          "description": "Project Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 650365761,
+            "language": "Python",
+            "last_commit": "2025-02-20T01:31:56Z",
+            "owner": "OSU-NLP-Group",
+            "repo": "MagicBrush",
+            "stars": 411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mathematical Capabilities of ChatGPT",
+          "description": "Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 594128260,
+            "language": null,
+            "last_commit": "2023-07-19T22:50:37Z",
+            "owner": "friederrr",
+            "repo": "GHOSTS",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation",
+          "description": "Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 660166382,
+            "language": "Python",
+            "last_commit": "2024-04-10T18:02:18Z",
+            "owner": "NeuralCarver",
+            "repo": "Michelangelo",
+            "stars": 487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset",
+          "description": "Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 652406324,
+            "language": "Python",
+            "last_commit": "2025-03-03T12:29:28Z",
+            "owner": "IDEA-Research",
+            "repo": "Motion-X",
+            "stars": 891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MotionGPT: Human Motion as Foreign Language",
+          "description": "Project Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 656030508,
+            "language": "Python",
+            "last_commit": "2025-07-01T18:22:15Z",
+            "owner": "OpenMotionLab",
+            "repo": "MotionGPT",
+            "stars": 1958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OBELICS: An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents",
+          "description": "Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 649831053,
+            "language": "Python",
+            "last_commit": "2024-08-28T21:31:13Z",
+            "owner": "huggingface",
+            "repo": "OBELICS",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Photoswap: Personalized Subject Swapping in Images",
+          "description": "Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 647090216,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-28T20:23:14Z",
+            "owner": "UCSB-AI",
+            "repo": "photoswap",
+            "stars": 346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation",
+          "description": "Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 634557591,
+            "language": "Python",
+            "last_commit": "2024-12-21T19:53:15Z",
+            "owner": "yuvalkirstain",
+            "repo": "PickScore",
+            "stars": 604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+          "description": "Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 639346169,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-10T19:20:16Z",
+            "owner": "artidoro",
+            "repo": "qlora",
+            "stars": 10997
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+          "description": "Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 617325145,
+            "language": "Python",
+            "last_commit": "2025-01-14T07:54:02Z",
+            "owner": "noahshinn",
+            "repo": "reflexion",
+            "stars": 3239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting",
+          "description": "Project Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 614758983,
+            "language": "Python",
+            "last_commit": "2026-07-08T11:06:15Z",
+            "owner": "zsyOAOA",
+            "repo": "ResShift",
+            "stars": 1426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Segment Anything in 3D with NeRFs",
+          "description": "Project Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 631867864,
+            "language": "Python",
+            "last_commit": "2025-05-19T02:37:14Z",
+            "owner": "Jumpat",
+            "repo": "SegmentAnythingin3D",
+            "stars": 1030
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Segment Anything in High Quality",
+          "description": "Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 648003298,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-12T00:00:27Z",
+            "owner": "SysCV",
+            "repo": "sam-hq",
+            "stars": 4255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Segment Everything Everywhere All at Once",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 626753204,
+            "language": "Python",
+            "last_commit": "2024-08-19T08:01:54Z",
+            "owner": "UX-Decoder",
+            "repo": "Segment-Everything-Everywhere-All-At-Once",
+            "stars": 4795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+          "description": "Project Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 620333997,
+            "language": "Python",
+            "last_commit": "2024-10-04T21:06:28Z",
+            "owner": "madaan",
+            "repo": "self-refine",
+            "stars": 818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple and Controllable Music Generation",
+          "description": "Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 650945129,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-03T21:50:32Z",
+            "owner": "facebookresearch",
+            "repo": "audiocraft",
+            "stars": 23576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 657284765,
+            "language": "Python",
+            "last_commit": "2024-11-15T11:53:34Z",
+            "owner": "VILA-Lab",
+            "repo": "SRe2L",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unlimiformer: Long-Range Transformers with Unlimited Length Input",
+          "description": "Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 635560128,
+            "language": "Python",
+            "last_commit": "2024-03-07T22:05:38Z",
+            "owner": "abertsch72",
+            "repo": "unlimiformer",
+            "stars": 1062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visual Instruction Tuning",
+          "description": "Project Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 629102662,
+            "language": "Python",
+            "last_commit": "2024-08-12T09:52:38Z",
+            "owner": "haotian-liu",
+            "repo": "LLaVA",
+            "stars": 25000
+          }
+        }
+      ],
+      "title": "Cool NeurIPS Projects"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T23:51:52.405Z",
+    "last_updated": "2026-08-24T14:42:32.729Z",
     "original_repository": "jacobmarks/awesome-neurips-2023",
     "original_repository_id": 727615908,
     "original_repository_sha": "3136ceadb59a59055af799184fe600ce3fe101ba",
