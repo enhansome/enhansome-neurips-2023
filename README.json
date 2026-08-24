@@ -150,7 +150,7 @@
             "last_commit": "2025-07-29T13:44:13Z",
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25204
+            "stars": 25207
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2025-07-01T18:22:15Z",
             "owner": "OpenMotionLab",
             "repo": "MotionGPT",
-            "stars": 1958
+            "stars": 1960
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2024-06-10T19:20:16Z",
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 10997
+            "stars": 10998
           }
         },
         {
@@ -495,7 +495,7 @@
             "last_commit": "2026-03-03T21:50:32Z",
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23576
+            "stars": 23575
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2024-08-12T09:52:38Z",
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25000
+            "stars": 25002
           }
         }
       ],
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:42:32.729Z",
+    "last_updated": "2026-08-24T23:52:50.942Z",
     "original_repository": "jacobmarks/awesome-neurips-2023",
     "original_repository_id": 727615908,
     "original_repository_sha": "3136ceadb59a59055af799184fe600ce3fe101ba",
