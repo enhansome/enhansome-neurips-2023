@@ -36,7 +36,7 @@
         {
           "node_type": "item",
           "title": "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models",
-          "description": "Project Blog",
+          "description": "Project  Blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -51,7 +51,7 @@
         {
           "node_type": "item",
           "title": "Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models",
-          "description": "Project Blog",
+          "description": "Project  Blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -66,7 +66,7 @@
         {
           "node_type": "item",
           "title": "DataComp: In search of the next generation of multimodal datasets",
-          "description": "Project Blog",
+          "description": "Project  Blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -96,7 +96,7 @@
         {
           "node_type": "item",
           "title": "DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data",
-          "description": "Project Blog",
+          "description": "Project  Blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -150,7 +150,7 @@
             "last_commit": "2025-07-29T13:44:13Z",
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25207
+            "stars": 25206
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-06-02T18:14:49Z",
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11261
+            "stars": 11260
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2024-10-07T08:49:26Z",
             "owner": "horseee",
             "repo": "LLM-Pruner",
-            "stars": 1135
+            "stars": 1136
           }
         },
         {
@@ -237,7 +237,7 @@
             "archived": false,
             "id": 547667434,
             "language": "Python",
-            "last_commit": "2026-08-24T10:22:40Z",
+            "last_commit": "2026-08-25T04:44:40Z",
             "owner": "opendilab",
             "repo": "LightZero",
             "stars": 1636
@@ -261,7 +261,7 @@
         {
           "node_type": "item",
           "title": "MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing",
-          "description": "Project Blog",
+          "description": "Project  Blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -321,7 +321,7 @@
         {
           "node_type": "item",
           "title": "MotionGPT: Human Motion as Foreign Language",
-          "description": "Project Blog",
+          "description": "Project  Blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -411,7 +411,7 @@
         {
           "node_type": "item",
           "title": "ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting",
-          "description": "Project Blog",
+          "description": "Project  Blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -426,7 +426,7 @@
         {
           "node_type": "item",
           "title": "Segment Anything in 3D with NeRFs",
-          "description": "Project Blog",
+          "description": "Project  Blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -471,7 +471,7 @@
         {
           "node_type": "item",
           "title": "Self-Refine: Iterative Refinement with Self-Feedback",
-          "description": "Project Blog",
+          "description": "Project  Blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -495,7 +495,7 @@
             "last_commit": "2026-03-03T21:50:32Z",
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23575
+            "stars": 23576
           }
         },
         {
@@ -531,7 +531,7 @@
         {
           "node_type": "item",
           "title": "Visual Instruction Tuning",
-          "description": "Project Blog",
+          "description": "Project  Blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:52:50.942Z",
+    "last_updated": "2026-08-25T06:34:46.148Z",
     "original_repository": "jacobmarks/awesome-neurips-2023",
     "original_repository_id": 727615908,
     "original_repository_sha": "3136ceadb59a59055af799184fe600ce3fe101ba",
