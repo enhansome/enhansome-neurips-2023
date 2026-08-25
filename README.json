@@ -150,7 +150,7 @@
             "last_commit": "2025-07-29T13:44:13Z",
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25206
+            "stars": 25208
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-06-02T18:14:49Z",
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11260
+            "stars": 11261
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-05-01T00:25:53Z",
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39524
+            "stars": 39525
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2024-06-10T19:20:16Z",
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 10998
+            "stars": 10997
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2025-01-14T07:54:02Z",
             "owner": "noahshinn",
             "repo": "reflexion",
-            "stars": 3239
+            "stars": 3242
           }
         },
         {
@@ -495,7 +495,7 @@
             "last_commit": "2026-03-03T21:50:32Z",
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23576
+            "stars": 23581
           }
         },
         {
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:34:46.148Z",
+    "last_updated": "2026-08-25T23:53:57.622Z",
     "original_repository": "jacobmarks/awesome-neurips-2023",
     "original_repository_id": 727615908,
     "original_repository_sha": "3136ceadb59a59055af799184fe600ce3fe101ba",
