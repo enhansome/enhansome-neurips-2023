@@ -150,7 +150,7 @@
             "last_commit": "2025-07-29T13:44:13Z",
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25207
+            "stars": 25209
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-06-02T18:14:49Z",
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11262
+            "stars": 11261
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-05-01T00:25:53Z",
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39525
+            "stars": 39526
           }
         },
         {
@@ -237,10 +237,10 @@
             "archived": false,
             "id": 547667434,
             "language": "Python",
-            "last_commit": "2026-08-25T04:44:40Z",
+            "last_commit": "2026-08-27T10:27:22Z",
             "owner": "opendilab",
             "repo": "LightZero",
-            "stars": 1637
+            "stars": 1638
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2024-06-10T19:20:16Z",
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 10998
+            "stars": 10999
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2025-01-14T07:54:02Z",
             "owner": "noahshinn",
             "repo": "reflexion",
-            "stars": 3242
+            "stars": 3243
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2025-09-12T00:00:27Z",
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4255
+            "stars": 4256
           }
         },
         {
@@ -480,7 +480,7 @@
             "last_commit": "2024-10-04T21:06:28Z",
             "owner": "madaan",
             "repo": "self-refine",
-            "stars": 819
+            "stars": 820
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2024-08-12T09:52:38Z",
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25002
+            "stars": 25004
           }
         }
       ],
@@ -548,9 +548,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:58:49.823Z",
-    "original_repository": "jacobmarks/awesome-neurips-2023",
-    "original_repository_id": 727615908,
+    "last_updated": "2026-08-27T11:51:58.814Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 727615908,
+      "language": "Jupyter Notebook",
+      "last_commit": "2023-12-15T21:41:04Z",
+      "owner": "jacobmarks",
+      "repo": "awesome-neurips-2023",
+      "stars": 121
+    },
     "original_repository_sha": "3136ceadb59a59055af799184fe600ce3fe101ba",
     "enhanced_repository": "enhansome/enhansome-neurips-2023",
     "enhanced_repository_description": null,
