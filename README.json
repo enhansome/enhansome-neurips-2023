@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2023] This repository includes the official implementation of our paper \"An Inverse Scaling Law for CLIP Training\"",
+            "homepage": null,
             "id": 633155384,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-03T22:29:16Z",
+            "open_issues": 1,
             "owner": "UCSC-VLAA",
             "repo": "CLIPA",
-            "stars": 322
+            "stars": 322,
+            "topics": [
+              "contrastive-learning",
+              "deep-learning",
+              "foundation-models",
+              "multimodal-learning",
+              "neurips-2023",
+              "pytorch",
+              "zero-shot-classification",
+              "zero-shot-learning"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -26,12 +40,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of our NeurIPS 2023 paper \"Augmenting Language Models with Long-Term Memory\". ",
+            "homepage": "https://arxiv.org/abs/2306.07174",
             "id": 652523482,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-30T22:24:38Z",
+            "open_issues": 12,
             "owner": "Victorwz",
             "repo": "LongMem",
-            "stars": 827
+            "stars": 827,
+            "topics": [
+              "large-language-models",
+              "long-context-modeling",
+              "long-term-memory"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -42,12 +65,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes for \"Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models\".",
+            "homepage": "https://chameleon-llm.github.io",
             "id": 629816595,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-23T03:36:42Z",
+            "open_issues": 8,
             "owner": "lupantech",
             "repo": "chameleon-llm",
-            "stars": 1140
+            "stars": 1140,
+            "topics": [
+              "ai",
+              "chatgpt",
+              "gpt-4",
+              "llm",
+              "openai",
+              "python",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -58,12 +94,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2023] Official implementations of \"Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models\"",
+            "homepage": null,
             "id": 640913660,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-27T15:00:22Z",
+            "open_issues": 30,
             "owner": "luogen1996",
             "repo": "LaVIN",
-            "stars": 523
+            "stars": 523,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -74,12 +115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DataComp: In search of the next generation of multimodal datasets",
+            "homepage": "http://datacomp.ai/",
             "id": 633690891,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-28T21:59:23Z",
+            "open_issues": 31,
             "owner": "mlfoundations",
             "repo": "datacomp",
-            "stars": 788
+            "stars": 788,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -90,12 +136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reference implementation for DPO (Direct Preference Optimization)",
+            "homepage": null,
             "id": 657083020,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-11T00:24:06Z",
+            "open_issues": 44,
             "owner": "eric-mitchell",
             "repo": "direct-preference-optimization",
-            "stars": 2907
+            "stars": 2907,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -106,12 +157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data (NeurIPS 2023 Spotlight) / / / / When Does Perceptual Alignment Benefit Vision Representations? (NeurIPS 2024)",
+            "homepage": null,
             "id": 653852586,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-24T23:25:02Z",
+            "open_issues": 7,
             "owner": "ssundaram21",
             "repo": "dreamsim",
-            "stars": 625
+            "stars": 625,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -122,12 +178,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2023] MeZO: Fine-Tuning Language Models with Just Forward Passes. https://arxiv.org/abs/2305.17333",
+            "homepage": null,
             "id": 644071541,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-11T18:07:52Z",
+            "open_issues": 1,
             "owner": "princeton-nlp",
             "repo": "MeZO",
-            "stars": 1174
+            "stars": 1174,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -138,12 +199,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐟 Code and models for the NeurIPS 2023 paper \"Generating Images with Multimodal Language Models\".",
+            "homepage": "https://jykoh.com/gill",
             "id": 645408196,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-19T08:58:31Z",
+            "open_issues": 12,
             "owner": "kohjingyu",
             "repo": "gill",
-            "stars": 470
+            "stars": 470,
+            "topics": [
+              "computer-vision",
+              "large-language-models",
+              "machine-learning",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -154,12 +225,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf",
+            "homepage": null,
             "id": 621118467,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
+            "open_issues": 4025,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25210
+            "stars": 25213,
+            "topics": [
+              "deep-learning",
+              "platform",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -170,12 +250,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2023] ImageReward: Learning and Evaluating Human Preferences for Text-to-image Generation",
+            "homepage": null,
             "id": 622147274,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-29T13:40:51Z",
+            "open_issues": 61,
             "owner": "zai-org",
             "repo": "ImageReward",
-            "stars": 1702
+            "stars": 1702,
+            "topics": [
+              "diffusion-models",
+              "generative-model",
+              "human-preferences",
+              "rlhf"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -186,12 +276,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+            "homepage": null,
             "id": 528238131,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-02T18:14:49Z",
+            "open_issues": 499,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11262
+            "stars": 11262,
+            "topics": [
+              "deep-learning",
+              "deep-learning-library",
+              "image-captioning",
+              "multimodal-datasets",
+              "multimodal-deep-learning",
+              "salesforce",
+              "vision-and-language",
+              "vision-framework",
+              "vision-language-pretraining",
+              "vision-language-transformer",
+              "visual-question-anwsering"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -202,12 +309,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
+            "homepage": null,
             "id": 615882673,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-01T00:25:53Z",
+            "open_issues": 1041,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39526
+            "stars": 39526,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -218,12 +330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2023 Datasets and Benchmarks Track] LAMM: Multi-Modal Large Language Models and Applications as AI Agents",
+            "homepage": "https://openlamm.github.io/",
             "id": 650980216,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-16T11:30:23Z",
+            "open_issues": 9,
             "owner": "OpenGVLab",
             "repo": "LAMM",
-            "stars": 318
+            "stars": 318,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -234,12 +351,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2023] LLM-Pruner: On the Structural Pruning of Large Language Models. Support Llama-3/3.1, Llama-2, LLaMA,  BLOOM, Vicuna, Baichuan, TinyLlama, etc.",
+            "homepage": "https://arxiv.org/abs/2305.11627",
             "id": 642028103,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-07T08:49:26Z",
+            "open_issues": 66,
             "owner": "horseee",
             "repo": "LLM-Pruner",
-            "stars": 1136
+            "stars": 1137,
+            "topics": [
+              "baichuan",
+              "bloom",
+              "chatglm",
+              "compression",
+              "language-model",
+              "llama",
+              "llama-2",
+              "llama3",
+              "llm",
+              "neurips-2023",
+              "pruning",
+              "pruning-algorithms",
+              "vicuna"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -250,12 +386,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2023 Spotlight] LightZero: A Unified Benchmark for Monte Carlo Tree Search in General Sequential Decision Scenarios (awesome MCTS)",
+            "homepage": "https://opendilab.github.io/LightZero",
             "id": 547667434,
             "language": "Python",
-            "last_commit": "2026-08-28T06:50:36Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T07:30:30Z",
+            "open_issues": 52,
             "owner": "opendilab",
             "repo": "LightZero",
-            "stars": 1638
+            "stars": 1638,
+            "topics": [
+              "alpha-beta-pruning",
+              "alphazero",
+              "atari",
+              "board-game",
+              "board-games",
+              "continuous-control",
+              "efficientzero",
+              "gomoku",
+              "gumbel-muzero",
+              "gym",
+              "mcts",
+              "mcts-algorithm",
+              "monte-carlo-tree-search",
+              "muzero",
+              "pytorch",
+              "reinforcement-learning",
+              "sampled-muzero",
+              "self-play",
+              "stochastic-muzero",
+              "tictactoe"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -266,12 +428,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion, NeurIPS 2023 (spotlight)",
+            "homepage": null,
             "id": 659076597,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-06T18:15:52Z",
+            "open_issues": 28,
             "owner": "Tangshitao",
             "repo": "MVDiffusion",
-            "stars": 567
+            "stars": 567,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -282,12 +449,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS'23] \"MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing\".",
+            "homepage": "https://osu-nlp-group.github.io/MagicBrush/",
             "id": 650365761,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-20T01:31:56Z",
+            "open_issues": 0,
             "owner": "OSU-NLP-Group",
             "repo": "MagicBrush",
-            "stars": 411
+            "stars": 411,
+            "topics": [
+              "diffusion-models",
+              "image-editing",
+              "image-generation",
+              "image-synthesis",
+              "instruction-following",
+              "text-to-image",
+              "text-to-image-generation",
+              "text-to-image-synthesis"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -298,12 +479,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GHOSTS dataset",
+            "homepage": "https://ghosts.xyfrieder.xyz",
             "id": 594128260,
             "language": null,
+            "license": null,
             "last_commit": "2023-07-19T22:50:37Z",
+            "open_issues": 1,
             "owner": "friederrr",
             "repo": "GHOSTS",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "benchmark",
+              "dataset",
+              "language-model"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -314,12 +504,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2023] Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation",
+            "homepage": "https://neuralcarver.github.io/michelangelo/",
             "id": 660166382,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-04-10T18:02:18Z",
+            "open_issues": 9,
             "owner": "NeuralCarver",
             "repo": "Michelangelo",
-            "stars": 487
+            "stars": 487,
+            "topics": [
+              "alignment-before-generation",
+              "image-to-3d",
+              "michelangelo",
+              "shape-generation",
+              "text-to-3d",
+              "transformers-models"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -330,12 +532,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2023] Official implementation of the paper \"Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset\"",
+            "homepage": "https://motion-x-dataset.github.io",
             "id": 652406324,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-03T12:29:28Z",
+            "open_issues": 82,
             "owner": "IDEA-Research",
             "repo": "Motion-X",
-            "stars": 891
+            "stars": 891,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -346,12 +553,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2023] MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs",
+            "homepage": "https://motion-gpt.github.io",
             "id": 656030508,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-01T18:22:15Z",
+            "open_issues": 72,
             "owner": "OpenMotionLab",
             "repo": "MotionGPT",
-            "stars": 1962
+            "stars": 1962,
+            "topics": [
+              "3d-generation",
+              "chatgpt",
+              "gpt",
+              "language-model",
+              "motion",
+              "motion-generation",
+              "motiongpt",
+              "multi-modal",
+              "text-driven",
+              "text-to-motion"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -362,12 +585,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code used for the creation of OBELICS, an open, massive and curated collection of interleaved image-text web documents, containing 141M documents, 115B text tokens and 353M images.",
+            "homepage": "https://huggingface.co/datasets/HuggingFaceM4/OBELICS",
             "id": 649831053,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-28T21:31:13Z",
+            "open_issues": 7,
             "owner": "huggingface",
             "repo": "OBELICS",
-            "stars": 218
+            "stars": 218,
+            "topics": [
+              "dataset",
+              "machine-learning",
+              "multimodal"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -378,12 +610,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of the NeurIPS 2023 paper \"Photoswap: Personalized Subject Swapping in Images\"",
+            "homepage": "https://photoswap.github.io",
             "id": 647090216,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-02-28T20:23:14Z",
+            "open_issues": 6,
             "owner": "UCSB-AI",
             "repo": "photoswap",
-            "stars": 346
+            "stars": 346,
+            "topics": [
+              "diffusion-models",
+              "generative-ai",
+              "image-editing",
+              "personalization",
+              "photoswap"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -394,12 +637,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 634557591,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-21T19:53:15Z",
+            "open_issues": 7,
             "owner": "yuvalkirstain",
             "repo": "PickScore",
-            "stars": 604
+            "stars": 604,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -410,12 +658,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QLoRA: Efficient Finetuning of Quantized LLMs",
+            "homepage": "https://arxiv.org/abs/2305.14314",
             "id": 639346169,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-06-10T19:20:16Z",
+            "open_issues": 206,
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 10999
+            "stars": 10999,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -426,12 +679,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2023] Reflexion: Language Agents with Verbal Reinforcement Learning",
+            "homepage": null,
             "id": 617325145,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-14T07:54:02Z",
+            "open_issues": 24,
             "owner": "noahshinn",
             "repo": "reflexion",
-            "stars": 3243
+            "stars": 3243,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -442,12 +704,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting (NeurIPS@2023 Spotlight, TPAMI@2024)",
+            "homepage": null,
             "id": 614758983,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-08T11:06:15Z",
+            "open_issues": 108,
             "owner": "zsyOAOA",
             "repo": "ResShift",
-            "stars": 1427
+            "stars": 1427,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -458,12 +725,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Segment Anything in 3D with NeRFs (NeurIPS 2023 & IJCV 2025)",
+            "homepage": null,
             "id": 631867864,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-19T02:37:14Z",
+            "open_issues": 35,
             "owner": "Jumpat",
             "repo": "SegmentAnythingin3D",
-            "stars": 1030
+            "stars": 1030,
+            "topics": [
+              "3d",
+              "3d-segmentation",
+              "computer-vision",
+              "deep-learning",
+              "nerf",
+              "segment-anything",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -474,12 +754,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Segment Anything in High Quality [NeurIPS 2023]",
+            "homepage": "https://arxiv.org/abs/2306.01567",
             "id": 648003298,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-12T00:00:27Z",
+            "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4256
+            "stars": 4256,
+            "topics": [
+              "high-quality",
+              "sam",
+              "segment-anything",
+              "segment-anything-model",
+              "segmentation",
+              "zero-shot-segmentation"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -490,12 +782,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2023] Official implementation of the paper \"Segment Everything Everywhere All at Once\"",
+            "homepage": null,
             "id": 626753204,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-19T08:01:54Z",
+            "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4794
+            "stars": 4794,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -506,12 +803,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLMs can generate feedback on their work, use it to improve the output, and repeat this process iteratively.",
+            "homepage": "https://selfrefine.info",
             "id": 620333997,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-04T21:06:28Z",
+            "open_issues": 10,
             "owner": "madaan",
             "repo": "self-refine",
-            "stars": 820
+            "stars": 820,
+            "topics": [
+              "chatgpt",
+              "few-shot-learning",
+              "gpt-35",
+              "gpt-4",
+              "language-generation",
+              "large-language-models",
+              "llms",
+              "prompting",
+              "prompts",
+              "reasoning"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -522,12 +835,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.",
+            "homepage": null,
             "id": 650945129,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-03-03T21:50:32Z",
+            "open_issues": 395,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23587
+            "stars": 23588,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -538,12 +856,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(NeurIPS 2023 spotlight) Large-scale Dataset Distillation/Condensation, 50 IPC (Images Per Class) achieves the highest 60.8% on original ImageNet-1K val set.",
+            "homepage": null,
             "id": 657284765,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-11-15T11:53:34Z",
+            "open_issues": 1,
             "owner": "VILA-Lab",
             "repo": "SRe2L",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "dataset-condensation",
+              "dataset-distillation",
+              "image-synthesis"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -554,12 +881,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repo for the NeurIPS 2023 paper \"Unlimiformer: Long-Range Transformers with Unlimited Length Input\"",
+            "homepage": null,
             "id": 635560128,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-07T22:05:38Z",
+            "open_issues": 24,
             "owner": "abertsch72",
             "repo": "unlimiformer",
-            "stars": 1062
+            "stars": 1062,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         },
@@ -570,12 +902,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+            "homepage": "https://llava.hliu.cc",
             "id": 629102662,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-12T09:52:38Z",
+            "open_issues": 1140,
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25005
+            "stars": 25005,
+            "topics": [
+              "chatbot",
+              "chatgpt",
+              "foundation-models",
+              "gpt-4",
+              "instruction-tuning",
+              "llama",
+              "llama-2",
+              "llama2",
+              "llava",
+              "multi-modality",
+              "multimodal",
+              "vision-language-model",
+              "visual-language-learning"
+            ]
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
         }
@@ -584,15 +935,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:03:24.160Z",
+    "last_updated": "2026-08-29T04:27:42.400Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
+      "homepage": null,
       "id": 727615908,
       "language": "Jupyter Notebook",
+      "license": null,
       "last_commit": "2023-12-15T21:41:04Z",
+      "open_issues": 0,
       "owner": "jacobmarks",
       "repo": "awesome-neurips-2023",
-      "stars": 121
+      "stars": 121,
+      "topics": [
+        "ai",
+        "awesome",
+        "awesome-list",
+        "awesome-readme",
+        "machine-learning",
+        "neurips",
+        "neurips-2023"
+      ]
     },
     "original_repository_sha": "3136ceadb59a59055af799184fe600ce3fe101ba",
     "enhanced_repository": "enhansome/enhansome-neurips-2023",
