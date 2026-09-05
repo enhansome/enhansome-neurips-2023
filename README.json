@@ -145,7 +145,7 @@
             "open_issues": 44,
             "owner": "eric-mitchell",
             "repo": "direct-preference-optimization",
-            "stars": 2908,
+            "stars": 2907,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -231,10 +231,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4063,
+            "open_issues": 4067,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25236,
+            "stars": 25235,
             "topics": [
               "deep-learning",
               "platform",
@@ -259,7 +259,7 @@
             "open_issues": 61,
             "owner": "zai-org",
             "repo": "ImageReward",
-            "stars": 1703,
+            "stars": 1702,
             "topics": [
               "diffusion-models",
               "generative-model",
@@ -315,10 +315,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-01T00:25:53Z",
-            "open_issues": 1044,
+            "open_issues": 1045,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39520,
+            "stars": 39523,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -392,10 +392,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T07:30:30Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "opendilab",
             "repo": "LightZero",
-            "stars": 1642,
+            "stars": 1643,
             "topics": [
               "alpha-beta-pruning",
               "alphazero",
@@ -437,7 +437,7 @@
             "open_issues": 28,
             "owner": "Tangshitao",
             "repo": "MVDiffusion",
-            "stars": 568,
+            "stars": 569,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -562,7 +562,7 @@
             "open_issues": 72,
             "owner": "OpenMotionLab",
             "repo": "MotionGPT",
-            "stars": 1963,
+            "stars": 1965,
             "topics": [
               "3d-generation",
               "chatgpt",
@@ -667,7 +667,7 @@
             "open_issues": 206,
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 11004,
+            "stars": 11003,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -688,7 +688,7 @@
             "open_issues": 24,
             "owner": "noahshinn",
             "repo": "reflexion",
-            "stars": 3253,
+            "stars": 3254,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -763,7 +763,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4257,
+            "stars": 4258,
             "topics": [
               "high-quality",
               "sam",
@@ -812,7 +812,7 @@
             "open_issues": 10,
             "owner": "madaan",
             "repo": "self-refine",
-            "stars": 821,
+            "stars": 820,
             "topics": [
               "chatgpt",
               "few-shot-learning",
@@ -844,7 +844,7 @@
             "open_issues": 396,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23605,
+            "stars": 23607,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -911,7 +911,7 @@
             "open_issues": 1140,
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25012,
+            "stars": 25014,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T01:18:44.338Z",
+    "last_updated": "2026-09-05T01:20:56.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
