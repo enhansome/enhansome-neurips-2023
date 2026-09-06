@@ -231,7 +231,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4067,
+            "open_issues": 4073,
             "owner": "microsoft",
             "repo": "JARVIS",
             "stars": 25235,
@@ -315,10 +315,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-01T00:25:53Z",
-            "open_issues": 1045,
+            "open_issues": 1046,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39523,
+            "stars": 39527,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -395,7 +395,7 @@
             "open_issues": 54,
             "owner": "opendilab",
             "repo": "LightZero",
-            "stars": 1643,
+            "stars": 1644,
             "topics": [
               "alpha-beta-pruning",
               "alphazero",
@@ -541,7 +541,7 @@
             "open_issues": 82,
             "owner": "IDEA-Research",
             "repo": "Motion-X",
-            "stars": 891,
+            "stars": 892,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -562,7 +562,7 @@
             "open_issues": 72,
             "owner": "OpenMotionLab",
             "repo": "MotionGPT",
-            "stars": 1965,
+            "stars": 1966,
             "topics": [
               "3d-generation",
               "chatgpt",
@@ -667,7 +667,7 @@
             "open_issues": 206,
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 11003,
+            "stars": 11006,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -734,7 +734,7 @@
             "open_issues": 35,
             "owner": "Jumpat",
             "repo": "SegmentAnythingin3D",
-            "stars": 1029,
+            "stars": 1030,
             "topics": [
               "3d",
               "3d-segmentation",
@@ -763,7 +763,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4258,
+            "stars": 4257,
             "topics": [
               "high-quality",
               "sam",
@@ -791,7 +791,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4794,
+            "stars": 4793,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -844,7 +844,7 @@
             "open_issues": 396,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23607,
+            "stars": 23609,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -911,7 +911,7 @@
             "open_issues": 1140,
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25014,
+            "stars": 25015,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T01:20:56.654Z",
+    "last_updated": "2026-09-06T01:17:51.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
