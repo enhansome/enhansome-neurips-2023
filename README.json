@@ -231,10 +231,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4081,
+            "open_issues": 4084,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25239,
+            "stars": 25244,
             "topics": [
               "deep-learning",
               "platform",
@@ -285,7 +285,7 @@
             "open_issues": 499,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11262,
+            "stars": 11264,
             "topics": [
               "deep-learning",
               "deep-learning-library",
@@ -667,7 +667,7 @@
             "open_issues": 206,
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 11009,
+            "stars": 11010,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -844,7 +844,7 @@
             "open_issues": 396,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23612,
+            "stars": 23616,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -911,7 +911,7 @@
             "open_issues": 1140,
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25013,
+            "stars": 25014,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:21:25.216Z",
+    "last_updated": "2026-09-09T01:28:41.757Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
