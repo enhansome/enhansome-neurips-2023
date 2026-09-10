@@ -124,7 +124,7 @@
             "open_issues": 31,
             "owner": "mlfoundations",
             "repo": "datacomp",
-            "stars": 789,
+            "stars": 790,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -145,7 +145,7 @@
             "open_issues": 44,
             "owner": "eric-mitchell",
             "repo": "direct-preference-optimization",
-            "stars": 2908,
+            "stars": 2909,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -231,10 +231,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4084,
+            "open_issues": 4094,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25244,
+            "stars": 25247,
             "topics": [
               "deep-learning",
               "platform",
@@ -259,7 +259,7 @@
             "open_issues": 61,
             "owner": "zai-org",
             "repo": "ImageReward",
-            "stars": 1703,
+            "stars": 1704,
             "topics": [
               "diffusion-models",
               "generative-model",
@@ -285,7 +285,7 @@
             "open_issues": 499,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11264,
+            "stars": 11263,
             "topics": [
               "deep-learning",
               "deep-learning-library",
@@ -318,7 +318,7 @@
             "open_issues": 1045,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39528,
+            "stars": 39527,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -392,7 +392,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T07:30:30Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "opendilab",
             "repo": "LightZero",
             "stars": 1645,
@@ -562,7 +562,7 @@
             "open_issues": 72,
             "owner": "OpenMotionLab",
             "repo": "MotionGPT",
-            "stars": 1966,
+            "stars": 1969,
             "topics": [
               "3d-generation",
               "chatgpt",
@@ -667,7 +667,7 @@
             "open_issues": 206,
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 11010,
+            "stars": 11011,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -763,7 +763,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4260,
+            "stars": 4259,
             "topics": [
               "high-quality",
               "sam",
@@ -911,7 +911,7 @@
             "open_issues": 1140,
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25014,
+            "stars": 25015,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:28:41.757Z",
+    "last_updated": "2026-09-10T01:24:03.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
