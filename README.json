@@ -231,10 +231,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4095,
+            "open_issues": 4098,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25251,
+            "stars": 25254,
             "topics": [
               "deep-learning",
               "platform",
@@ -318,7 +318,7 @@
             "open_issues": 1045,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39525,
+            "stars": 39526,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -395,7 +395,7 @@
             "open_issues": 55,
             "owner": "opendilab",
             "repo": "LightZero",
-            "stars": 1646,
+            "stars": 1647,
             "topics": [
               "alpha-beta-pruning",
               "alphazero",
@@ -667,7 +667,7 @@
             "open_issues": 206,
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 11011,
+            "stars": 11012,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T01:24:53.737Z",
+    "last_updated": "2026-09-12T01:29:01.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
