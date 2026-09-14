@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "UCSC-VLAA",
             "repo": "CLIPA",
-            "stars": 322,
+            "stars": 323,
             "topics": [
               "contrastive-learning",
               "deep-learning",
@@ -124,7 +124,7 @@
             "open_issues": 31,
             "owner": "mlfoundations",
             "repo": "datacomp",
-            "stars": 790,
+            "stars": 791,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -231,10 +231,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4102,
+            "open_issues": 4103,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25256,
+            "stars": 25262,
             "topics": [
               "deep-learning",
               "platform",
@@ -318,7 +318,7 @@
             "open_issues": 1045,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39525,
+            "stars": 39523,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -541,7 +541,7 @@
             "open_issues": 82,
             "owner": "IDEA-Research",
             "repo": "Motion-X",
-            "stars": 893,
+            "stars": 894,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -562,7 +562,7 @@
             "open_issues": 72,
             "owner": "OpenMotionLab",
             "repo": "MotionGPT",
-            "stars": 1969,
+            "stars": 1970,
             "topics": [
               "3d-generation",
               "chatgpt",
@@ -763,7 +763,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4259,
+            "stars": 4257,
             "topics": [
               "high-quality",
               "sam",
@@ -844,7 +844,7 @@
             "open_issues": 397,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23623,
+            "stars": 23624,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T01:22:40.386Z",
+    "last_updated": "2026-09-14T01:33:25.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
