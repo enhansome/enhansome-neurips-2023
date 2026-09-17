@@ -231,10 +231,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4106,
+            "open_issues": 4109,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25275,
+            "stars": 25282,
             "topics": [
               "deep-learning",
               "platform",
@@ -285,7 +285,7 @@
             "open_issues": 500,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11267,
+            "stars": 11265,
             "topics": [
               "deep-learning",
               "deep-learning-library",
@@ -318,7 +318,7 @@
             "open_issues": 1045,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39524,
+            "stars": 39535,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -360,7 +360,7 @@
             "open_issues": 66,
             "owner": "horseee",
             "repo": "LLM-Pruner",
-            "stars": 1139,
+            "stars": 1140,
             "topics": [
               "baichuan",
               "bloom",
@@ -392,7 +392,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T07:30:30Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "opendilab",
             "repo": "LightZero",
             "stars": 1647,
@@ -541,7 +541,7 @@
             "open_issues": 82,
             "owner": "IDEA-Research",
             "repo": "Motion-X",
-            "stars": 894,
+            "stars": 895,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -667,7 +667,7 @@
             "open_issues": 206,
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 11015,
+            "stars": 11016,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -688,7 +688,7 @@
             "open_issues": 24,
             "owner": "noahshinn",
             "repo": "reflexion",
-            "stars": 3267,
+            "stars": 3269,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -791,7 +791,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4793,
+            "stars": 4792,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -841,10 +841,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-03-03T21:50:32Z",
-            "open_issues": 397,
+            "open_issues": 398,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23631,
+            "stars": 23633,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -911,7 +911,7 @@
             "open_issues": 1141,
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25024,
+            "stars": 25023,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T01:36:39.497Z",
+    "last_updated": "2026-09-17T01:39:28.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
