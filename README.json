@@ -145,7 +145,7 @@
             "open_issues": 44,
             "owner": "eric-mitchell",
             "repo": "direct-preference-optimization",
-            "stars": 2909,
+            "stars": 2910,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -231,10 +231,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4112,
+            "open_issues": 4115,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25287,
+            "stars": 25295,
             "topics": [
               "deep-learning",
               "platform",
@@ -275,17 +275,17 @@
           "description": "Blog",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "LAVIS - A One-stop Library for Language-Vision Intelligence",
             "homepage": null,
             "id": 528238131,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-06-02T18:14:49Z",
+            "last_commit": "2026-09-18T09:59:39Z",
             "open_issues": 500,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11265,
+            "stars": 11267,
             "topics": [
               "deep-learning",
               "deep-learning-library",
@@ -315,10 +315,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-01T00:25:53Z",
-            "open_issues": 1044,
+            "open_issues": 1043,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39534,
+            "stars": 39539,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -392,7 +392,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T07:30:30Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "opendilab",
             "repo": "LightZero",
             "stars": 1647,
@@ -688,7 +688,7 @@
             "open_issues": 24,
             "owner": "noahshinn",
             "repo": "reflexion",
-            "stars": 3272,
+            "stars": 3273,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -763,7 +763,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4258,
+            "stars": 4257,
             "topics": [
               "high-quality",
               "sam",
@@ -791,7 +791,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4792,
+            "stars": 4791,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -844,7 +844,7 @@
             "open_issues": 398,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23637,
+            "stars": 23639,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -911,7 +911,7 @@
             "open_issues": 1141,
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25025,
+            "stars": 25028,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:25:29.705Z",
+    "last_updated": "2026-09-19T01:31:01.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
