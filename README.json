@@ -166,7 +166,7 @@
             "open_issues": 7,
             "owner": "ssundaram21",
             "repo": "dreamsim",
-            "stars": 626,
+            "stars": 627,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -231,10 +231,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4123,
+            "open_issues": 4125,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25320,
+            "stars": 25324,
             "topics": [
               "deep-learning",
               "platform",
@@ -318,7 +318,7 @@
             "open_issues": 1042,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39549,
+            "stars": 39550,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -664,7 +664,7 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2024-06-10T19:20:16Z",
-            "open_issues": 206,
+            "open_issues": 207,
             "owner": "artidoro",
             "repo": "qlora",
             "stars": 11021,
@@ -688,7 +688,7 @@
             "open_issues": 24,
             "owner": "noahshinn",
             "repo": "reflexion",
-            "stars": 3284,
+            "stars": 3285,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -844,7 +844,7 @@
             "open_issues": 398,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23644,
+            "stars": 23649,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -911,7 +911,7 @@
             "open_issues": 1141,
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25035,
+            "stars": 25037,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T01:43:15.796Z",
+    "last_updated": "2026-09-24T01:37:17.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
