@@ -231,10 +231,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4127,
+            "open_issues": 4128,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25324,
+            "stars": 25333,
             "topics": [
               "deep-learning",
               "platform",
@@ -318,7 +318,7 @@
             "open_issues": 1042,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39551,
+            "stars": 39552,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -357,7 +357,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-10-07T08:49:26Z",
-            "open_issues": 66,
+            "open_issues": 65,
             "owner": "horseee",
             "repo": "LLM-Pruner",
             "stars": 1141,
@@ -688,7 +688,7 @@
             "open_issues": 24,
             "owner": "noahshinn",
             "repo": "reflexion",
-            "stars": 3283,
+            "stars": 3284,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -713,7 +713,7 @@
             "open_issues": 109,
             "owner": "zsyOAOA",
             "repo": "ResShift",
-            "stars": 1429,
+            "stars": 1430,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -844,7 +844,7 @@
             "open_issues": 398,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23650,
+            "stars": 23651,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T01:51:19.831Z",
+    "last_updated": "2026-09-26T01:54:44.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
