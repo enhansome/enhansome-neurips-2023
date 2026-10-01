@@ -231,10 +231,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4141,
+            "open_issues": 4146,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25359,
+            "stars": 25368,
             "topics": [
               "deep-learning",
               "platform",
@@ -315,10 +315,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-01T00:25:53Z",
-            "open_issues": 1043,
+            "open_issues": 1044,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39553,
+            "stars": 39554,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -541,7 +541,7 @@
             "open_issues": 84,
             "owner": "IDEA-Research",
             "repo": "Motion-X",
-            "stars": 899,
+            "stars": 900,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -562,7 +562,7 @@
             "open_issues": 72,
             "owner": "OpenMotionLab",
             "repo": "MotionGPT",
-            "stars": 1974,
+            "stars": 1976,
             "topics": [
               "3d-generation",
               "chatgpt",
@@ -664,7 +664,7 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2024-06-10T19:20:16Z",
-            "open_issues": 207,
+            "open_issues": 208,
             "owner": "artidoro",
             "repo": "qlora",
             "stars": 11028,
@@ -763,7 +763,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4262,
+            "stars": 4263,
             "topics": [
               "high-quality",
               "sam",
@@ -791,7 +791,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4792,
+            "stars": 4791,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -844,7 +844,7 @@
             "open_issues": 400,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23653,
+            "stars": 23657,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -887,7 +887,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-03-07T22:05:38Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "abertsch72",
             "repo": "unlimiformer",
             "stars": 1062,
@@ -911,7 +911,7 @@
             "open_issues": 1142,
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25045,
+            "stars": 25050,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T02:19:50.662Z",
+    "last_updated": "2026-10-01T02:21:11.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
