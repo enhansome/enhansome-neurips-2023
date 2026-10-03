@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "An Inverse Scaling Law for CLIP Training",
-          "description": null,
+          "description": "UCSC-VLAA/CLIPA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -36,7 +36,7 @@
         {
           "node_type": "item",
           "title": "Augmenting Language Models with Long-Term Memory",
-          "description": null,
+          "description": "Victorwz/LongMem",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -195,7 +195,7 @@
         {
           "node_type": "item",
           "title": "Generating Images with Multimodal Language Models",
-          "description": "Project",
+          "description": "kohjingyu/gill",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -221,7 +221,7 @@
         {
           "node_type": "item",
           "title": "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face",
-          "description": null,
+          "description": "microsoft/JARVIS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -234,7 +234,7 @@
             "open_issues": 4153,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25378,
+            "stars": 25379,
             "topics": [
               "deep-learning",
               "platform",
@@ -305,7 +305,7 @@
         {
           "node_type": "item",
           "title": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena",
-          "description": null,
+          "description": "lm-sys/FastChat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -318,7 +318,7 @@
             "open_issues": 1045,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39554,
+            "stars": 39555,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -326,7 +326,7 @@
         {
           "node_type": "item",
           "title": "LAMM: Multi-Modal Large Language Models and Applications as AI Agents",
-          "description": "Project",
+          "description": "OpenGVLab/LAMM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -347,7 +347,7 @@
         {
           "node_type": "item",
           "title": "LLM-Pruner: On the Structural Pruning of Large Language Models",
-          "description": null,
+          "description": "horseee/LLM-Pruner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -382,7 +382,7 @@
         {
           "node_type": "item",
           "title": "LightZero: A Unified Benchmark for Monte Carlo Tree Search in General Sequential Decision Scenario",
-          "description": null,
+          "description": "opendilab/LightZero",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -424,7 +424,7 @@
         {
           "node_type": "item",
           "title": "MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion",
-          "description": "Project",
+          "description": "Tangshitao/MVDiffusion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -475,7 +475,7 @@
         {
           "node_type": "item",
           "title": "Mathematical Capabilities of ChatGPT",
-          "description": "Project",
+          "description": "friederrr/GHOSTS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -500,7 +500,7 @@
         {
           "node_type": "item",
           "title": "Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation",
-          "description": "Project",
+          "description": "NeuralCarver/Michelangelo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -528,7 +528,7 @@
         {
           "node_type": "item",
           "title": "Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset",
-          "description": "Project",
+          "description": "IDEA-Research/Motion-X",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -606,7 +606,7 @@
         {
           "node_type": "item",
           "title": "Photoswap: Personalized Subject Swapping in Images",
-          "description": "Project",
+          "description": "UCSB-AI/photoswap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -763,7 +763,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4263,
+            "stars": 4264,
             "topics": [
               "high-quality",
               "sam",
@@ -778,7 +778,7 @@
         {
           "node_type": "item",
           "title": "Segment Everything Everywhere All at Once",
-          "description": null,
+          "description": "UX-Decoder/Segment-Everything-Everywhere-All-At-Once",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -852,7 +852,7 @@
         {
           "node_type": "item",
           "title": "Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective",
-          "description": null,
+          "description": "VILA-Lab/SRe2L",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:17:27.043Z",
+    "last_updated": "2026-10-03T04:57:39.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
