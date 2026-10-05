@@ -145,7 +145,7 @@
             "open_issues": 44,
             "owner": "eric-mitchell",
             "repo": "direct-preference-optimization",
-            "stars": 2911,
+            "stars": 2912,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -234,7 +234,7 @@
             "open_issues": 4156,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25384,
+            "stars": 25386,
             "topics": [
               "deep-learning",
               "platform",
@@ -667,7 +667,7 @@
             "open_issues": 208,
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 11030,
+            "stars": 11032,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -688,7 +688,7 @@
             "open_issues": 24,
             "owner": "noahshinn",
             "repo": "reflexion",
-            "stars": 3296,
+            "stars": 3295,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -911,7 +911,7 @@
             "open_issues": 1141,
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25057,
+            "stars": 25058,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T02:50:23.358Z",
+    "last_updated": "2026-10-05T02:20:23.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
