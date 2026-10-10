@@ -124,7 +124,7 @@
             "open_issues": 31,
             "owner": "mlfoundations",
             "repo": "datacomp",
-            "stars": 792,
+            "stars": 793,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -145,7 +145,7 @@
             "open_issues": 44,
             "owner": "eric-mitchell",
             "repo": "direct-preference-optimization",
-            "stars": 2912,
+            "stars": 2914,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -166,7 +166,7 @@
             "open_issues": 7,
             "owner": "ssundaram21",
             "repo": "dreamsim",
-            "stars": 627,
+            "stars": 628,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -187,7 +187,7 @@
             "open_issues": 1,
             "owner": "princeton-nlp",
             "repo": "MeZO",
-            "stars": 1178,
+            "stars": 1179,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -208,7 +208,7 @@
             "open_issues": 12,
             "owner": "kohjingyu",
             "repo": "gill",
-            "stars": 470,
+            "stars": 469,
             "topics": [
               "computer-vision",
               "large-language-models",
@@ -231,10 +231,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4190,
+            "open_issues": 4203,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25406,
+            "stars": 25408,
             "topics": [
               "deep-learning",
               "platform",
@@ -285,7 +285,7 @@
             "open_issues": 500,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11259,
+            "stars": 11258,
             "topics": [
               "deep-learning",
               "deep-learning-library",
@@ -315,10 +315,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-01T00:25:53Z",
-            "open_issues": 1044,
+            "open_issues": 1045,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39552,
+            "stars": 39551,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -458,7 +458,7 @@
             "open_issues": 0,
             "owner": "OSU-NLP-Group",
             "repo": "MagicBrush",
-            "stars": 413,
+            "stars": 412,
             "topics": [
               "diffusion-models",
               "image-editing",
@@ -667,7 +667,7 @@
             "open_issues": 207,
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 11038,
+            "stars": 11039,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -688,7 +688,7 @@
             "open_issues": 24,
             "owner": "noahshinn",
             "repo": "reflexion",
-            "stars": 3297,
+            "stars": 3298,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -844,7 +844,7 @@
             "open_issues": 400,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23667,
+            "stars": 23670,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -911,7 +911,7 @@
             "open_issues": 1141,
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25058,
+            "stars": 25055,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T03:03:19.482Z",
+    "last_updated": "2026-10-10T02:40:42.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
