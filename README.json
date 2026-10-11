@@ -145,7 +145,7 @@
             "open_issues": 44,
             "owner": "eric-mitchell",
             "repo": "direct-preference-optimization",
-            "stars": 2914,
+            "stars": 2916,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -231,10 +231,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4203,
+            "open_issues": 4208,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25408,
+            "stars": 25417,
             "topics": [
               "deep-learning",
               "platform",
@@ -259,7 +259,7 @@
             "open_issues": 61,
             "owner": "zai-org",
             "repo": "ImageReward",
-            "stars": 1705,
+            "stars": 1706,
             "topics": [
               "diffusion-models",
               "generative-model",
@@ -318,7 +318,7 @@
             "open_issues": 1045,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39551,
+            "stars": 39554,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -395,7 +395,7 @@
             "open_issues": 52,
             "owner": "opendilab",
             "repo": "LightZero",
-            "stars": 1646,
+            "stars": 1647,
             "topics": [
               "alpha-beta-pruning",
               "alphazero",
@@ -667,7 +667,7 @@
             "open_issues": 207,
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 11039,
+            "stars": 11043,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -763,7 +763,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4265,
+            "stars": 4264,
             "topics": [
               "high-quality",
               "sam",
@@ -844,7 +844,7 @@
             "open_issues": 400,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23670,
+            "stars": 23674,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -911,7 +911,7 @@
             "open_issues": 1141,
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25055,
+            "stars": 25058,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:40:42.020Z",
+    "last_updated": "2026-10-11T02:08:11.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
