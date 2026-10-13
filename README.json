@@ -74,7 +74,7 @@
             "open_issues": 8,
             "owner": "lupantech",
             "repo": "chameleon-llm",
-            "stars": 1142,
+            "stars": 1143,
             "topics": [
               "ai",
               "chatgpt",
@@ -231,10 +231,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4208,
+            "open_issues": 4211,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25423,
+            "stars": 25428,
             "topics": [
               "deep-learning",
               "platform",
@@ -339,7 +339,7 @@
             "open_issues": 9,
             "owner": "OpenGVLab",
             "repo": "LAMM",
-            "stars": 318,
+            "stars": 319,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -395,7 +395,7 @@
             "open_issues": 52,
             "owner": "opendilab",
             "repo": "LightZero",
-            "stars": 1649,
+            "stars": 1650,
             "topics": [
               "alpha-beta-pruning",
               "alphazero",
@@ -513,7 +513,7 @@
             "open_issues": 9,
             "owner": "NeuralCarver",
             "repo": "Michelangelo",
-            "stars": 487,
+            "stars": 486,
             "topics": [
               "alignment-before-generation",
               "image-to-3d",
@@ -688,7 +688,7 @@
             "open_issues": 24,
             "owner": "noahshinn",
             "repo": "reflexion",
-            "stars": 3304,
+            "stars": 3306,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -713,7 +713,7 @@
             "open_issues": 109,
             "owner": "zsyOAOA",
             "repo": "ResShift",
-            "stars": 1432,
+            "stars": 1433,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -763,7 +763,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4264,
+            "stars": 4265,
             "topics": [
               "high-quality",
               "sam",
@@ -844,7 +844,7 @@
             "open_issues": 401,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23686,
+            "stars": 23692,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -911,7 +911,7 @@
             "open_issues": 1141,
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25060,
+            "stars": 25062,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:37:30.859Z",
+    "last_updated": "2026-10-13T03:47:49.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
