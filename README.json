@@ -231,10 +231,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4211,
+            "open_issues": 4213,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25428,
+            "stars": 25432,
             "topics": [
               "deep-learning",
               "platform",
@@ -259,7 +259,7 @@
             "open_issues": 61,
             "owner": "zai-org",
             "repo": "ImageReward",
-            "stars": 1706,
+            "stars": 1707,
             "topics": [
               "diffusion-models",
               "generative-model",
@@ -315,10 +315,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-01T00:25:53Z",
-            "open_issues": 1046,
+            "open_issues": 1047,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39554,
+            "stars": 39549,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -541,7 +541,7 @@
             "open_issues": 84,
             "owner": "IDEA-Research",
             "repo": "Motion-X",
-            "stars": 900,
+            "stars": 901,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -562,7 +562,7 @@
             "open_issues": 72,
             "owner": "OpenMotionLab",
             "repo": "MotionGPT",
-            "stars": 1976,
+            "stars": 1977,
             "topics": [
               "3d-generation",
               "chatgpt",
@@ -646,7 +646,7 @@
             "open_issues": 7,
             "owner": "yuvalkirstain",
             "repo": "PickScore",
-            "stars": 605,
+            "stars": 606,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -844,7 +844,7 @@
             "open_issues": 401,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23692,
+            "stars": 23699,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -911,7 +911,7 @@
             "open_issues": 1141,
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25062,
+            "stars": 25065,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:47:49.888Z",
+    "last_updated": "2026-10-14T02:07:22.325Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
