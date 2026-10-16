@@ -187,7 +187,7 @@
             "open_issues": 1,
             "owner": "princeton-nlp",
             "repo": "MeZO",
-            "stars": 1179,
+            "stars": 1180,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -231,10 +231,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4219,
+            "open_issues": 4221,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25433,
+            "stars": 25439,
             "topics": [
               "deep-learning",
               "platform",
@@ -360,7 +360,7 @@
             "open_issues": 65,
             "owner": "horseee",
             "repo": "LLM-Pruner",
-            "stars": 1141,
+            "stars": 1142,
             "topics": [
               "baichuan",
               "bloom",
@@ -391,8 +391,8 @@
             "id": 547667434,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T14:29:38Z",
-            "open_issues": 52,
+            "last_commit": "2026-10-15T10:32:08Z",
+            "open_issues": 50,
             "owner": "opendilab",
             "repo": "LightZero",
             "stars": 1652,
@@ -763,7 +763,7 @@
             "open_issues": 110,
             "owner": "SysCV",
             "repo": "sam-hq",
-            "stars": 4265,
+            "stars": 4264,
             "topics": [
               "high-quality",
               "sam",
@@ -791,7 +791,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4792,
+            "stars": 4793,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -812,7 +812,7 @@
             "open_issues": 10,
             "owner": "madaan",
             "repo": "self-refine",
-            "stars": 823,
+            "stars": 822,
             "topics": [
               "chatgpt",
               "few-shot-learning",
@@ -844,7 +844,7 @@
             "open_issues": 401,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23706,
+            "stars": 23716,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -865,7 +865,7 @@
             "open_issues": 1,
             "owner": "VILA-Lab",
             "repo": "SRe2L",
-            "stars": 141,
+            "stars": 142,
             "topics": [
               "dataset-condensation",
               "dataset-distillation",
@@ -911,7 +911,7 @@
             "open_issues": 1141,
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25068,
+            "stars": 25067,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:45:56.838Z",
+    "last_updated": "2026-10-16T01:36:53.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
