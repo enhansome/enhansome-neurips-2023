@@ -231,10 +231,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4248,
+            "open_issues": 4251,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25482,
+            "stars": 25488,
             "topics": [
               "deep-learning",
               "platform",
@@ -318,7 +318,7 @@
             "open_issues": 1048,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39547,
+            "stars": 39549,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -395,7 +395,7 @@
             "open_issues": 51,
             "owner": "opendilab",
             "repo": "LightZero",
-            "stars": 1654,
+            "stars": 1655,
             "topics": [
               "alpha-beta-pruning",
               "alphazero",
@@ -688,7 +688,7 @@
             "open_issues": 24,
             "owner": "noahshinn",
             "repo": "reflexion",
-            "stars": 3313,
+            "stars": 3316,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -844,7 +844,7 @@
             "open_issues": 401,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23748,
+            "stars": 23753,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -911,7 +911,7 @@
             "open_issues": 1141,
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25072,
+            "stars": 25073,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T01:52:05.205Z",
+    "last_updated": "2026-10-24T01:55:03.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
