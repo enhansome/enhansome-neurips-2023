@@ -285,7 +285,7 @@
             "open_issues": 499,
             "owner": "salesforce",
             "repo": "LAVIS",
-            "stars": 11257,
+            "stars": 11255,
             "topics": [
               "deep-learning",
               "deep-learning-library",
@@ -541,7 +541,7 @@
             "open_issues": 84,
             "owner": "IDEA-Research",
             "repo": "Motion-X",
-            "stars": 903,
+            "stars": 905,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -562,7 +562,7 @@
             "open_issues": 72,
             "owner": "OpenMotionLab",
             "repo": "MotionGPT",
-            "stars": 1984,
+            "stars": 1985,
             "topics": [
               "3d-generation",
               "chatgpt",
@@ -646,7 +646,7 @@
             "open_issues": 7,
             "owner": "yuvalkirstain",
             "repo": "PickScore",
-            "stars": 607,
+            "stars": 606,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -667,7 +667,7 @@
             "open_issues": 207,
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 11058,
+            "stars": 11059,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -688,7 +688,7 @@
             "open_issues": 24,
             "owner": "noahshinn",
             "repo": "reflexion",
-            "stars": 3337,
+            "stars": 3357,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -713,7 +713,7 @@
             "open_issues": 109,
             "owner": "zsyOAOA",
             "repo": "ResShift",
-            "stars": 1435,
+            "stars": 1436,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -791,7 +791,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4788,
+            "stars": 4787,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -812,7 +812,7 @@
             "open_issues": 10,
             "owner": "madaan",
             "repo": "self-refine",
-            "stars": 842,
+            "stars": 844,
             "topics": [
               "chatgpt",
               "few-shot-learning",
@@ -844,7 +844,7 @@
             "open_issues": 401,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23767,
+            "stars": 23776,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -911,7 +911,7 @@
             "open_issues": 1140,
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25078,
+            "stars": 25075,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T02:32:53.842Z",
+    "last_updated": "2026-10-29T02:46:27.792Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
