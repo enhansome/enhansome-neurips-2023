@@ -166,7 +166,7 @@
             "open_issues": 7,
             "owner": "ssundaram21",
             "repo": "dreamsim",
-            "stars": 633,
+            "stars": 632,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -231,10 +231,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4284,
+            "open_issues": 4287,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25585,
+            "stars": 25589,
             "topics": [
               "deep-learning",
               "platform",
@@ -360,7 +360,7 @@
             "open_issues": 65,
             "owner": "horseee",
             "repo": "LLM-Pruner",
-            "stars": 1146,
+            "stars": 1147,
             "topics": [
               "baichuan",
               "bloom",
@@ -667,7 +667,7 @@
             "open_issues": 207,
             "owner": "artidoro",
             "repo": "qlora",
-            "stars": 11065,
+            "stars": 11066,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -688,7 +688,7 @@
             "open_issues": 24,
             "owner": "noahshinn",
             "repo": "reflexion",
-            "stars": 3406,
+            "stars": 3412,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -844,7 +844,7 @@
             "open_issues": 401,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23832,
+            "stars": 23833,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -911,7 +911,7 @@
             "open_issues": 1140,
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25078,
+            "stars": 25081,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T03:09:18.484Z",
+    "last_updated": "2026-11-08T02:40:03.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
