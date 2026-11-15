@@ -231,10 +231,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T13:44:13Z",
-            "open_issues": 4300,
+            "open_issues": 4305,
             "owner": "microsoft",
             "repo": "JARVIS",
-            "stars": 25648,
+            "stars": 25655,
             "topics": [
               "deep-learning",
               "platform",
@@ -315,10 +315,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-01T00:25:53Z",
-            "open_issues": 1051,
+            "open_issues": 1052,
             "owner": "lm-sys",
             "repo": "FastChat",
-            "stars": 39551,
+            "stars": 39550,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -619,7 +619,7 @@
             "open_issues": 6,
             "owner": "UCSB-AI",
             "repo": "photoswap",
-            "stars": 345,
+            "stars": 346,
             "topics": [
               "diffusion-models",
               "generative-ai",
@@ -688,7 +688,7 @@
             "open_issues": 24,
             "owner": "noahshinn",
             "repo": "reflexion",
-            "stars": 3422,
+            "stars": 3425,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -844,7 +844,7 @@
             "open_issues": 402,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23866,
+            "stars": 23871,
             "topics": []
           },
           "first_seen": "2026-08-28T07:03:24.160Z"
@@ -911,7 +911,7 @@
             "open_issues": 1140,
             "owner": "haotian-liu",
             "repo": "LLaVA",
-            "stars": 25078,
+            "stars": 25077,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -935,7 +935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T03:30:21.845Z",
+    "last_updated": "2026-11-15T03:00:11.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "Conference schedule, top papers, and analysis of the data for NeurIPS 2023!",
